@@ -1,4 +1,4 @@
 # Paint JS
 Painting Board with VanillaJS
 
-[Try this!](index.html)
+[Try this!](https://KB-Kangbok.github.io/paintjs)
